@@ -1,0 +1,10 @@
+Pesquisar sobre criação de Medidas   18/11/2023.
+AVERAGE, SUM, MAX, FILTER.
+
+O QUE É?
+
+OBJETIVO?
+
+SINTAXE?
+
+EXEMPLO DE APLICAÇÃO
